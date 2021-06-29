@@ -1,4 +1,4 @@
-# oci-auto-instance-upgrader
+# oci-auto-instance-upgrade
 
 This C# .net 5 micro application will attempt to upgrade an Oracle Cloud compute instance of your choice to another instance shape.
 

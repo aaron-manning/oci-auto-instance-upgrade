@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
-        <RootNamespace>oci_auto_instance_upgrader</RootNamespace>
+        <RootNamespace>oci_auto_instance_upgrade</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

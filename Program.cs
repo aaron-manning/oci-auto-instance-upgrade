@@ -5,7 +5,7 @@ using Oci.Common;
 using Oci.Common.Auth;
 using Microsoft.Extensions.Configuration;
 
-namespace oci_auto_instance_upgrader
+namespace oci_auto_instance_upgrade
 {
     public class Program
     {
