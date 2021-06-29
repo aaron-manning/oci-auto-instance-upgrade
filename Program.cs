@@ -68,7 +68,6 @@ namespace oci_auto_instance_upgrade
                     Console.WriteLine($"fail attempt {count}: {e.Message}");
                     await Task.Delay(1000);
                 }
-
             }
         }
     }
