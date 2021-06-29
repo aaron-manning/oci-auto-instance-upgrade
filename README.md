@@ -8,7 +8,7 @@ Unfortunately, these instances are oversubscribed, making them difficult to acqu
 
 This tool is a soluton to the above problem. It will endlessly attempt to reshape your instance, calling the Oracle Cloud API no more than once per second until the operation succeeds.
 
-## instructions
+## Instructions
 You will need private credentials stored in ~/.oci for the Oracle Cli to work. See the following guide.
 https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/dotnetsdkgettingstarted.htm
 
