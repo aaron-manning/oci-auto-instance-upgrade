@@ -1,7 +1,7 @@
 // using Xunit;
-// using oci_auto_instance_upgrader;
+// using oci_auto_instance_upgrade;
 
-// namespace oci_auto_instance_upgrader_test
+// namespace oci_auto_instance_upgrade_test
 // {
 //     public class Program
 //     {
